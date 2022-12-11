@@ -27,6 +27,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cRGVtb1Byb2R1Y3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/diego/OneDrive/Área de Trabalho/blazor course/Tangy/TangyWeb_Server/Pages/BlazorLearn/LearnBlazorComponents/_EditDeleteButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cTGVhcm5CbGF6b3JDb21wb25lbnRzXF9FZGl0RGVsZXRlQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/OneDrive/Área de Trabalho/blazor course/Tangy/TangyWeb_Server/Pages/BlazorLearn/LearnBlazorComponents/_IndividualProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cTGVhcm5CbGF6b3JDb21wb25lbnRzXF9JbmRpdmlkdWFsUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/diego/OneDrive/Área de Trabalho/blazor course/Tangy/TangyWeb_Server/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
