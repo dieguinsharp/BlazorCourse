@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g6l0y9g3c1KCSp5iHRv8TsSq6MciOCcnAm6NNiDXmOEKszxHjojYCrqcbLr18GNBYfHnjh1Nwhcu1/r30rAidQ==",
+  "dgSpecHash": "aPJGN2h7rrnKtMAFDA2AAs20NnL8UZGCXwuh5NjS0jO4gASJsRON/Sa9eQ4m7CYxaE1ypBUG7pmQlm684s+weA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\blazor course\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\Blazor course\\BlazorCourse\\TangyWeb_Client\\TangyWeb_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.4\\microsoft.aspnetcore.authorization.6.0.4.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.4\\microsoft.aspnetcore.components.6.0.4.nupkg.sha512",
@@ -33,7 +33,7 @@
     "C:\\Users\\diego\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.4.nupkg.sha512"
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.12\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }
