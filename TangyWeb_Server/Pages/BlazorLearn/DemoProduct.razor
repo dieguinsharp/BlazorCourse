@@ -6,7 +6,13 @@
 <div class="border p-2 mt-2" style="background-color:azure">
 	<div class="row">
 		@foreach(var prod in Products) {
-			<_IndividualProduct Product="@prod" OnFavoriteUpdated="FavoriteCountUpdate" OnLastSelectedProductName="SetLastSelectedProductName"/>
+			<_IndividualProduct Product="@prod" 
+                OnFavoriteUpdated="FavoriteCountUpdate" 
+                OnLastSelectedProductName="SetLastSelectedProductName">
+                <FirstFragment>EXPANSIVE</FirstFragment>
+                <SecondFragment>RARE</SecondFragment>
+            </_IndividualProduct>
+
 		}
 	</div>
 </div>

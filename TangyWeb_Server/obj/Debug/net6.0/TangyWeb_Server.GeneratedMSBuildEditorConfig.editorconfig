@@ -28,12 +28,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cRGVtb1Byb2R1Y3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/diego/OneDrive/Área de Trabalho/Blazor course/BlazorCourse/TangyWeb_Server/Pages/BlazorLearn/LearnBlazorComponents/_AnotherChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cTGVhcm5CbGF6b3JDb21wb25lbnRzXF9Bbm90aGVyQ2hpbGRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/OneDrive/Área de Trabalho/Blazor course/BlazorCourse/TangyWeb_Server/Pages/BlazorLearn/LearnBlazorComponents/_ChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cTGVhcm5CbGF6b3JDb21wb25lbnRzXF9DaGlsZENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/diego/OneDrive/Área de Trabalho/Blazor course/BlazorCourse/TangyWeb_Server/Pages/BlazorLearn/LearnBlazorComponents/_EditDeleteButton.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cTGVhcm5CbGF6b3JDb21wb25lbnRzXF9FZGl0RGVsZXRlQnV0dG9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/diego/OneDrive/Área de Trabalho/Blazor course/BlazorCourse/TangyWeb_Server/Pages/BlazorLearn/LearnBlazorComponents/_GrandChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cTGVhcm5CbGF6b3JDb21wb25lbnRzXF9HcmFuZENoaWxkQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/diego/OneDrive/Área de Trabalho/Blazor course/BlazorCourse/TangyWeb_Server/Pages/BlazorLearn/LearnBlazorComponents/_IndividualProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cTGVhcm5CbGF6b3JDb21wb25lbnRzXF9JbmRpdmlkdWFsUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/OneDrive/Área de Trabalho/Blazor course/BlazorCourse/TangyWeb_Server/Pages/BlazorLearn/LearnRouting.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cTGVhcm5Sb3V0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/OneDrive/Área de Trabalho/Blazor course/BlazorCourse/TangyWeb_Server/Pages/BlazorLearn/ParentComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yTGVhcm5cUGFyZW50Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/diego/OneDrive/Área de Trabalho/Blazor course/BlazorCourse/TangyWeb_Server/Pages/Counter.razor]

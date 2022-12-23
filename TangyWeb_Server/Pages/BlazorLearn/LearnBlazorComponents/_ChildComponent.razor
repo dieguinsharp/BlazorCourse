@@ -1,0 +1,43 @@
+﻿
+<div>
+    <div class="alert alert-info">@Title</div>
+    <div class="alert alert-success">
+        @if(DangerChildrenContent is not null)
+        {
+            <span>@DangerChildrenContent</span>
+        }
+        else
+        {
+            @if (ChildContent is not null)
+            {
+                <span>@ChildContent</span>
+            }
+            else
+            {
+                <span>Its fragment is empty!</span>
+            }
+        }
+        
+    </div>
+    <button class="btn btn-danger" @onclick="OnButtonClick">Button to be clicked</button>
+    
+    <_GrandChildComponent />
+
+</div>
+
+@code {
+
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public string MessageForGrandChild { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+    [Parameter]
+    public RenderFragment DangerChildrenContent { get; set; }
+
+    [Parameter]
+    public EventCallback OnButtonClick { get; set; }
+}
